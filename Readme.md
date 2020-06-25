@@ -5,6 +5,8 @@ Image classification of for Kaggle cats and dogs challenge based on tutorial on 
 
 A ConvNet model following the tutorial at the blog. The model parameters were further saved to load the model and perform sentiment analysis.   
 
+**Data source**: [Kaggle Cats vs Dogs](https://www.kaggle.com/c/dogs-vs-cats/data).  
+
 **Future prospects:**  
 1) Improve model with different algorithms.  
 2) Try more pre-trained image classification models.  
@@ -27,7 +29,7 @@ A ConvNet model following the tutorial at the blog. The model parameters were fu
 
 ## File descriptions    
 =======================================================  
-**[utilities.py](https://github.com/ishmukul/SentimentAnalysis/blob/master/data_clean.py)**: 
+**[utilities.py](https://github.com/ishmukul/ImageClassification/blob/master/utilities.py)**: 
 **This script is required for all other scripts.**  
 
 *Useful common functions.*    
